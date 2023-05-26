@@ -10,26 +10,26 @@ banner:
 
 # feature
 feature:
-  title: Something You Need To Know
+  title: Why Terrafarms?
   features:
-    - name: "Clean Code"
-      icon: "/images/code.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Object Oriented"
-      icon: "/images/oop.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "24h Service"
-      icon: "/images/user-clock.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Value for Money"
-      icon: "/images/love.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Faster Response"
-      icon: "/images/speedometer.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Cloud Support"
-      icon: "/images/cloud.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name: "IoT and AI Integration"
+      icon: "/images/ar.png"
+      content: "Terrafarms leverages IoT and AI technologies to provide comprehensive solutions to farmers, enabling them to make data-driven decisions and improve agricultural practices."
+    - name: "Soil Analysis and Crop Recommendation"
+      icon: "/images/3dsoil.png"
+      content: "We offer accurate soil analysis and crop recommendation services using advanced machine learning models, helping farmers optimize their crop selection for different soil types."
+    - name: "Market Access and Fair Pricing"
+      icon: "/images/calculator.png"
+      content: "Through our extensive network and marketplace platform, we connect farmers with buyers, ensuring fair prices and facilitating market access for their agricultural produce."
+    - name: "Supply of Agricultural Products"
+      icon: "/images/leaf1.png"
+      content: "We provide farmers with essential agricultural products such as seeds, fertilizers, and pesticides, ensuring they have access to high-quality inputs for their crop cultivation."
+    - name: "Plant Disease Detection"
+      icon: "/images/plantsoil.png"
+      content: "Our advanced models can detect and diagnose plant diseases based on visual symptoms, enabling farmers to take prompt action to prevent crop losses and maximize yields."
+    - name: "Efficiency and Sustainability"
+      icon: "/images/leaf3.png"
+      content: "Terrafarms aims to simplify the farming process, improve efficiency, and promote sustainable agricultural practices for the benefit of farmers, the environment, and society."
 
 # services
 services:
