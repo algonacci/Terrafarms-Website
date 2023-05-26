@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Terrafarms Website",
+    "title": "Terrafarms - Solusi Cerdas Pertanian🌾",
     "base_url": "https://terrafarms.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
