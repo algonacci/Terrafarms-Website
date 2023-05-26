@@ -10,7 +10,7 @@ banner:
 
 # feature
 feature:
-  title: Why Terrafarms?
+  title: Kenapa Harus Terrafarms?
   features:
     - name: "Integrasi IoT dan AI"
       icon: "/images/ar.png"
