@@ -17,7 +17,7 @@ feature:
       content: "Terrafarms memanfaatkan teknologi IoT dan AI untuk menyediakan solusi komprehensif bagi para petani, memungkinkan mereka untuk mengambil keputusan berdasarkan data dan meningkatkan praktik pertanian."
     - name: "Analisis Tanah dan Rekomendasi Tanaman"
       icon: "/images/3dsoil.png"
-      ccontent: "Kami menyediakan layanan analisis tanah yang akurat dan rekomendasi tanaman menggunakan model pembelajaran mesin canggih, membantu petani mengoptimalkan pemilihan tanaman sesuai dengan jenis tanah yang berbeda."
+      content: "Kami menyediakan layanan analisis tanah yang akurat dan rekomendasi tanaman menggunakan model pembelajaran mesin canggih, membantu petani mengoptimalkan pemilihan tanaman sesuai dengan jenis tanah yang berbeda."
     - name: "Akses Pasar dan Penentuan Harga yang Adil"
       icon: "/images/calculator.png"
       content: "Melalui jaringan dan platform pasar yang luas, kami menghubungkan petani dengan pembeli, memastikan harga yang adil dan memfasilitasi akses pasar bagi produk pertanian mereka."
