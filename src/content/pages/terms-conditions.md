@@ -4,11 +4,11 @@ description: "this is meta description"
 draft: false
 ---
 
-Please read these Terms and Conditions ("Terms") carefully before using the TerraFarms website ("Website") and mobile application ("App") operated by TerraFarms Ltd. ("TerraFarms," "we," "us," or "our"). These Terms govern your access to and use of the Website and App. By accessing or using the Website or App, you agree to be bound by these Terms. If you disagree with any part of the Terms, you may not access the Website or App.
+Please read these Terms and Conditions ("Terms") carefully before using the Terrafarms website ("Website") and mobile application ("App") operated by Terrafarms Ltd. ("Terrafarms," "we," "us," or "our"). These Terms govern your access to and use of the Website and App. By accessing or using the Website or App, you agree to be bound by these Terms. If you disagree with any part of the Terms, you may not access the Website or App.
 
 ### Intellectual Property
 
-The Website, App, and their original content, features, and functionality are owned by TerraFarms and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. You may not reproduce, modify, distribute, or republish any materials from the Website or App without our prior written consent.
+The Website, App, and their original content, features, and functionality are owned by Terrafarms and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. You may not reproduce, modify, distribute, or republish any materials from the Website or App without our prior written consent.
 
 ### User Conduct
 
@@ -27,11 +27,11 @@ The information provided on the Website and App is for general informational pur
 
 ### Third-Party Links
 
-The Website and App may contain links to third-party websites or resources that are not owned or controlled by TerraFarms. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or resources. By using the Website or App, you acknowledge and agree that TerraFarms shall not be responsible or liable for any damage or loss caused by your use of or reliance on any third-party websites or resources.
+The Website and App may contain links to third-party websites or resources that are not owned or controlled by Terrafarms. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or resources. By using the Website or App, you acknowledge and agree that Terrafarms shall not be responsible or liable for any damage or loss caused by your use of or reliance on any third-party websites or resources.
 
 ### Mobile App-Specific Provisions
 
-In addition to the above Terms, the following provisions apply specifically to the use of the TerraFarms mobile application:
+In addition to the above Terms, the following provisions apply specifically to the use of the Terrafarms mobile application:
 
 1. The App may collect and use certain information about your device, including unique device identifiers, to provide and improve the App's functionality.
 2. You may receive push notifications from the App, and you can control these notifications through your device settings.
