@@ -78,7 +78,7 @@ Deskripsi: Dengan menggunakan teknologi terkini dalam analisis ta"
 
 # workflow
 workflow:
-  title: "Mari ikuti kami dengan #REVOLUSIPERTANIANDENGANSOLUSICERDAS"
+  title: "Revolusi Pertanian dimulai hari ini"
   image: "/images/banner.png"
   description: ""
 
