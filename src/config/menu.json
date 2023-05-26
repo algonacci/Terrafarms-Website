@@ -5,7 +5,7 @@
       "url": "/"
     },
     {
-      "name": "Pricing",
+      "name": "Harga",
       "url": "/pricing"
     },
     {
@@ -19,23 +19,23 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Perusahaan",
       "menu": [
         {
-          "text": "Pricing",
+          "text": "Harga",
           "url": "/pricing"
         },
         {
-          "text": "Quick Start",
+          "text": "Mulai Sekarang",
           "url": "#"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "Produk",
       "menu": [
         {
-          "text": "Features",
+          "text": "Fitur",
           "url": "#"
         },
         {
@@ -43,13 +43,13 @@
           "url": "#"
         },
         {
-          "text": "Pricing",
+          "text": "Harga",
           "url": "/pricing"
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Dukungan",
       "menu": [
         {
           "text": "FAQ",

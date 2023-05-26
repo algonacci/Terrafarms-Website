@@ -8,7 +8,7 @@
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "42",
-    "logo_text": "Astroplate"
+    "logo_text": "Terrafarms"
   },
   "settings": {
     "pagination": 4,
@@ -17,18 +17,18 @@
   },
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Mulai Sekarang",
     "link": "/contact"
   },
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "footer_content": "Revolusi Pertanian dengan Solusi Cerdas Bersama Terrafarms",
+    "copyright": "Terrafarms 2023"
   },
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Terrafarms",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro boilerplate"
+    "meta_description": "Terrafarms adalah sebuah perusahaan teknologi pertanian yang menggunakan kecerdasan buatan (AI) dan Internet of Things (IoT) untuk memberikan solusi cerdas dalam pertanian. Kami menyediakan analisis tanah, rekomendasi tanaman, pemantauan pertumbuhan tanaman, dan solusi pengendalian hama yang inovatif untuk membantu petani meningkatkan hasil panen mereka."
   }
 }
