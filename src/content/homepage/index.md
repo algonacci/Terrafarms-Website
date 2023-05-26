@@ -78,7 +78,7 @@ Deskripsi: Dengan menggunakan teknologi terkini dalam analisis ta"
 
 # workflow
 workflow:
-  title: "Experience the best workflow with us"
+  title: "Mari ikuti kami dengan #REVOLUSIPERTANIANDENGANSOLUSICERDAS"
   image: "/images/banner.png"
   description: ""
 
