@@ -42,9 +42,3 @@ You have the right to access, update, or delete your personal information in our
 ## Changes to This Privacy Policy
 
 We reserve the right to update or modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the updated policy on our website.
-
-## Contact Us
-
-If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
-
-- Email: [privacy@terrafarms.my.id](mailto:privacy@terrafarms.my.id)

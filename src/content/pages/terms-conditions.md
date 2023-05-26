@@ -4,26 +4,37 @@ description: "this is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+Please read these Terms and Conditions ("Terms") carefully before using the TerraFarms website ("Website") and mobile application ("App") operated by TerraFarms Ltd. ("TerraFarms," "we," "us," or "our"). These Terms govern your access to and use of the Website and App. By accessing or using the Website or App, you agree to be bound by these Terms. If you disagree with any part of the Terms, you may not access the Website or App.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+### Intellectual Property
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+The Website, App, and their original content, features, and functionality are owned by TerraFarms and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. You may not reproduce, modify, distribute, or republish any materials from the Website or App without our prior written consent.
 
-#### Gathering of Personal Information
+### User Conduct
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+When using the Website or App, you agree to abide by the following guidelines:
 
-#### Protection of Personal- Information
+1. You are solely responsible for any content you post or transmit through the Website or App.
+2. You will not use the Website or App for any illegal or unauthorized purpose.
+3. You will not interfere with or disrupt the Website, App, or servers or networks connected to the Website or App.
+4. You will not engage in any activity that could harm, impair, or overburden the Website or App.
+5. You will not attempt to gain unauthorized access to any part of the Website, App, or any other systems or networks associated with the Website or App.
+6. You will not impersonate any person or entity or misrepresent your affiliation with any person or entity.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+### Disclaimer of Liability
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+The information provided on the Website and App is for general informational purposes only. While we strive to keep the information accurate and up to date, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the Website, App, or the information contained on the Website or App. Your use of the Website, App, and reliance on any information is at your own risk.
 
-#### Privacy Policy Changes
+### Third-Party Links
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+The Website and App may contain links to third-party websites or resources that are not owned or controlled by TerraFarms. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or resources. By using the Website or App, you acknowledge and agree that TerraFarms shall not be responsible or liable for any damage or loss caused by your use of or reliance on any third-party websites or resources.
+
+### Mobile App-Specific Provisions
+
+In addition to the above Terms, the following provisions apply specifically to the use of the TerraFarms mobile application:
+
+1. The App may collect and use certain information about your device, including unique device identifiers, to provide and improve the App's functionality.
+2. You may receive push notifications from the App, and you can control these notifications through your device settings.
+3. The App may use location-based services to provide location-specific features. You can enable or disable these services through your device settings.
+4. The App may require access to certain features or data on your device, such as the camera or contacts, to provide specific functionality. You can grant or revoke these permissions through your device settings.
+5. The App may use cookies or similar technologies to enhance your experience and analyze usage patterns. By using the App, you consent to the use
