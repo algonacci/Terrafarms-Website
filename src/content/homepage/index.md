@@ -12,29 +12,29 @@ banner:
 feature:
   title: Why Terrafarms?
   features:
-    - name: "IoT and AI Integration"
+    - name: "Integrasi IoT dan AI"
       icon: "/images/ar.png"
-      content: "Terrafarms leverages IoT and AI technologies to provide comprehensive solutions to farmers, enabling them to make data-driven decisions and improve agricultural practices."
-    - name: "Soil Analysis and Crop Recommendation"
+      content: "Terrafarms memanfaatkan teknologi IoT dan AI untuk menyediakan solusi komprehensif bagi para petani, memungkinkan mereka untuk mengambil keputusan berdasarkan data dan meningkatkan praktik pertanian."
+    - name: "Analisis Tanah dan Rekomendasi Tanaman"
       icon: "/images/3dsoil.png"
-      content: "We offer accurate soil analysis and crop recommendation services using advanced machine learning models, helping farmers optimize their crop selection for different soil types."
-    - name: "Market Access and Fair Pricing"
+      ccontent: "Kami menyediakan layanan analisis tanah yang akurat dan rekomendasi tanaman menggunakan model pembelajaran mesin canggih, membantu petani mengoptimalkan pemilihan tanaman sesuai dengan jenis tanah yang berbeda."
+    - name: "Akses Pasar dan Penentuan Harga yang Adil"
       icon: "/images/calculator.png"
-      content: "Through our extensive network and marketplace platform, we connect farmers with buyers, ensuring fair prices and facilitating market access for their agricultural produce."
-    - name: "Supply of Agricultural Products"
+      content: "Melalui jaringan dan platform pasar yang luas, kami menghubungkan petani dengan pembeli, memastikan harga yang adil dan memfasilitasi akses pasar bagi produk pertanian mereka."
+    - name: "Pasokan Produk Pertanian"
       icon: "/images/leaf1.png"
-      content: "We provide farmers with essential agricultural products such as seeds, fertilizers, and pesticides, ensuring they have access to high-quality inputs for their crop cultivation."
-    - name: "Plant Disease Detection"
+      content: "Kami menyediakan petani dengan produk pertanian penting seperti benih, pupuk, dan pestisida, memastikan mereka memiliki akses ke input berkualitas tinggi untuk budidaya tanaman mereka."
+    - name: "Deteksi Penyakit Tanaman"
       icon: "/images/plantsoil.png"
-      content: "Our advanced models can detect and diagnose plant diseases based on visual symptoms, enabling farmers to take prompt action to prevent crop losses and maximize yields."
-    - name: "Efficiency and Sustainability"
+      content: "Model canggih kami dapat mendeteksi dan mendiagnosis penyakit tanaman berdasarkan gejala visual, memungkinkan petani untuk mengambil tindakan cepat untuk mencegah kerugian panen dan memaksimalkan hasil."
+    - name: "Efisiensi dan Keberlanjutan"
       icon: "/images/leaf3.png"
-      content: "Terrafarms aims to simplify the farming process, improve efficiency, and promote sustainable agricultural practices for the benefit of farmers, the environment, and society."
+      content: "Terrafarms bertujuan untuk menyederhanakan proses pertanian, meningkatkan efisiensi, dan mempromosikan praktik pertanian yang berkelanjutan untuk kepentingan petani, lingkungan, dan masyarakat."
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Combining Cutting Edge Machine Learning with IoT for better solutions"
+    content: "Welcome to Terrafarms, where we harness the power of cutting-edge machine learning and IoT technology to deliver exceptional solutions. Our mission is to revolutionize agribusiness industries by leveraging the synergy between these two groundbreaking technologies."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
