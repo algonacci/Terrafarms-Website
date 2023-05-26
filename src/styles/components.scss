@@ -55,6 +55,14 @@
   @apply transition-all duration-200 ease-in-out hover:shadow;
 }
 
+.feature-card {
+  .my-custom-img-icon-class{
+    width:150px;
+    height:auto;
+  }
+}
+
+
 //swiper pagination
 .service-carousel .swiper-pagination {
   @apply flex justify-center;
