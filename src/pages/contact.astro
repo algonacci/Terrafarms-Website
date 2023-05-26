@@ -12,7 +12,7 @@ const { title, description, info } = entry?.data;
 <Base title={title} description={description}>
   <section class="section">
     <div class="container">
-      <h1 class="text-center font-normal" set:html={markdownify(title)} />
+      <h1 class="text-center font-bold" set:html={markdownify(title)} />
       <div class="section row pb-0">
         <div class="col-12 md:col-6 lg:col-7">
           <form class="contact-form" method="POST" action={contact_form_action}>
