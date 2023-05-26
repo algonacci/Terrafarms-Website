@@ -2,11 +2,8 @@
 title: "Contact Us"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-  contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+  title: Hubungi Kami untuk Pertanyaan dan Dukungan
+  description: Kami senang mendengar dari Anda! Jika Anda memiliki pertanyaan, masukan, atau membutuhkan bantuan teknis, tim kami siap membantu. Silakan hubungi kami melalui informasi kontak di bawah ini atau gunakan formulir ini untuk mengirim pesan kepada kami. Kami akan merespons secepat mungkin.
+  
 ---
 
