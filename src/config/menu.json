@@ -5,6 +5,10 @@
       "url": "/"
     },
     {
+      "name": "Fitur",
+      "url": "/features"
+    },
+    {
       "name": "Harga",
       "url": "/pricing"
     },
@@ -36,7 +40,7 @@
       "menu": [
         {
           "text": "Fitur",
-          "url": "#"
+          "url": "/features"
         },
         {
           "text": "Platform",

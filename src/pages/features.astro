@@ -2,7 +2,7 @@
 import Base from "@layouts/Base.astro";
 import { markdownify } from "@lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
-const entry = await getEntryBySlug("faq", "index");
+const entry = await getEntryBySlug("features", "index");
 const { title, description, faqs } = entry.data;
 ---
 
