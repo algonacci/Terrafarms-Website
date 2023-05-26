@@ -33,46 +33,47 @@ feature:
 
 # services
 services:
-  - title: "Combining Cutting Edge Machine Learning with IoT for better solutions"
-    content: "Welcome to Terrafarms, where we harness the power of cutting-edge machine learning and IoT technology to deliver exceptional solutions. Our mission is to revolutionize agribusiness industries by leveraging the synergy between these two groundbreaking technologies."
+  - title: "Menggabungkan Machine Learning Terkini dengan IoT untuk Solusi yang Lebih Baik"
+    content: "Selamat datang di Terrafarms, tempat kami memanfaatkan kekuatan machine learning terkini dan teknologi IoT untuk menyediakan solusi yang luar biasa. Misi kami adalah merevolusi industri agribisnis dengan memanfaatkan sinergi antara kedua teknologi terobosan ini."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Pelajari Lebih Lanjut
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Forum Tanya Jawab Pertanian untuk Membahas Masalah dan Solusi"
+    content: "Dalam forum ini, Anda dapat bertanya, berbagi, dan mencari solusi mengenai berbagai masalah dan tantangan yang terkait dengan bidang pertanian. Temukan jawaban dari para ahli dan komunitas yang berpengalaman dalam industri pertanian, serta berdiskusi tentang inovasi, teknik terbaru, dan praktik terbaik dalam pertanian. Forum ini merupakan wadah yang sangat berguna bagi para petani, peternak, dan semua individu yang tertarik dengan pertanian untuk saling bertukar pengetahuan, pengalaman, serta memperluas jaringan dalam rangka mengembangkan sektor pertanian yang berkelanjutan."
     images:
       - "/images/service-slide-1.png"
     button:
       enable: true
-      label: Check it out
+      label: Pelajari Lebih Lanjut
       link: /contact
 
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Analisis Tanah yang Akurat untuk Pertanian yang Optimal
+Deskripsi: Dengan menggunakan teknologi terkini dalam analisis ta"
+    content: "Terrafarms menyediakan layanan analisis yang akurat dan mendalam untuk membantu petani mengoptimalkan praktik pertanian mereka. Dapatkan informasi terperinci tentang komposisi tanah, nutrisi, pH, dan faktor lainnya yang memengaruhi pertumbuhan tanaman. Dengan pemahaman yang lebih baik tentang kondisi tanah, petani dapat mengambil langkah-langkah yang tepat untuk meningkatkan produktivitas dan kualitas hasil panen."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Pelajari Lebih Lanjut
+      link: /contact
+
+  - title: "Solusi Inovatif untuk Pengendalian Hama dan Penyakit Tanaman"
+    content: "Deskripsi: Terrafarms menawarkan solusi inovatif dalam pengendalian hama dan penyakit tanaman. Melalui penerapan teknologi terbaru, kami dapat mendeteksi secara dini keberadaan hama dan penyakit tanaman serta memberikan rekomendasi pengendalian yang efektif. Dengan bantuan solusi kami, petani dapat mengurangi kerugian panen akibat serangan hama dan penyakit, serta menjaga kesehatan dan produktivitas tanaman secara berkelanjutan."
+    images:
+      - "/images/service-slide-1.png"
+      - "/images/service-slide-2.png"
+      - "/images/service-slide-3.png"
+    button:
+      enable: true
+      label: Pelajari Lebih Lanjut
       link: /contact
 
 # workflow
@@ -83,11 +84,11 @@ workflow:
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: Tingkatkan Hasil Panen Anda dengan Terrafarms
+  content: Bergabunglah dengan Terrafarms dan tingkatkan hasil panen Anda dengan solusi terdepan dalam pertanian. Dengan teknologi canggih yang menggabungkan kecerdasan buatan (AI) dan Internet of Things (IoT), kami memberikan solusi yang inovatif dan terpercaya untuk mengoptimalkan produksi tanaman Anda. 
   image: "/images/cta.png"
   button:
     enable: true
-    label: "Contact Us"
+    label: "Kontak Kami"
     link: "/contact"
 ---
