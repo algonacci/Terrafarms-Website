@@ -69,7 +69,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     {canonical && <link rel="canonical" href={canonical} item-prop="url" />}
 
     <!-- noindex robots -->
-    {noindex && <meta name="robots" content="noindex,nofollow" />}
+    {noindex && <meta name="robots" content="index, follow" />}
 
     <!-- meta-description -->
     <meta
@@ -90,51 +90,40 @@ const { title, meta_title, description, image, noindex, canonical } =
       )}
     />
 
-    <!-- og-description -->
+    <!-- Primary Meta Tags -->
+    <meta
+      name="description"
+      content="Perusahaan pertanian cerdas dengan AI & IoT, menyediakan analisis tanah, rekomendasi tanaman, pemantauan pertumbuhan, dan pengendalian hama inovatif."
+    />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://terrafarms.id/" />
+    <meta property="og:title" content="Terrafarms - Solusi Cerdas Pertanian" />
     <meta
       property="og:description"
-      content={plainify(
-        description ? description : config.metadata.meta_description
-      )}
+      content="Perusahaan pertanian cerdas dengan AI & IoT, menyediakan analisis tanah, rekomendasi tanaman, pemantauan pertumbuhan, dan pengendalian hama inovatif."
     />
-    <meta property="og:type" content="website" />
-    <meta
-      property="og:url"
-      content={`${config.site.base_url}/${Astro.url.pathname.replace("/", "")}`}
-    />
-
-    <!-- twitter-title -->
-    <meta
-      name="twitter:title"
-      content={plainify(
-        meta_title ? meta_title : title ? title : config.site.title
-      )}
-    />
-
-    <!-- twitter-description -->
-    <meta
-      name="twitter:description"
-      content={plainify(
-        description ? description : config.metadata.meta_description
-      )}
-    />
-
-    <!-- og-image -->
     <meta
       property="og:image"
-      content={`${config.site.base_url}${
-        image ? image : config.metadata.meta_image
-      }`}
+      content="https://terrafarms.id/images/banner.jpg"
     />
 
-    <!-- twitter-image -->
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://terrafarms.id/" />
     <meta
-      name="twitter:image"
-      content={`${config.site.base_url}${
-        image ? image : config.metadata.meta_image
-      }`}
+      property="twitter:title"
+      content="Terrafarms - Solusi Cerdas Pertanian"
     />
-    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      property="twitter:description"
+      content="Perusahaan pertanian cerdas dengan AI & IoT, menyediakan analisis tanah, rekomendasi tanaman, pemantauan pertumbuhan, dan pengendalian hama inovatif."
+    />
+    <meta
+      property="twitter:image"
+      content="https://terrafarms.id/images/banner.jpg"
+    />
   </head>
   <body>
     <TwSizeIndicator />
