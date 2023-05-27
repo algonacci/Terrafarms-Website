@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Revolusi Pertanian dengan Solusi Cerdas Bersama Terrafarms
+  title: Terrafarms - Revolusi Pertanian dengan Solusi Cerdas 
   content: Sambut revolusi pertanian dengan solusi cerdas bersama Terrafarms. Kami memanfaatkan teknologi terkini seperti kecerdasan buatan (AI) dan Internet of Things (IoT) untuk menghadirkan solusi inovatif dalam dunia pertanian. Dengan Terrafarms, Anda dapat mengoptimalkan proses pertanian Anda, mulai dari analisis tanah yang mendalam, pemantauan pertumbuhan tanaman secara real-time, hingga pengelolaan sumber daya yang efisien.
   image: /images/banner-art.jpg
   button:
