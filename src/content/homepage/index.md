@@ -75,7 +75,7 @@ Deskripsi: Dengan menggunakan teknologi terkini dalam analisis ta"
 # workflow
 workflow:
   title: "Revolusi Pertanian dimulai hari ini"
-  image: "/images/widebanner.png"
+  image: "/images/widebannerbg.png"
   description: ""
 
 # call_to_action
