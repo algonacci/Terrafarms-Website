@@ -1,5 +1,5 @@
 ---
-title: "Contact Us"
+title: "Kontak Kami"
 draft: false
 info:
   title: Hubungi Kami untuk Pertanyaan dan Dukungan

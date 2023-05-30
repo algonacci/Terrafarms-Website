@@ -19,6 +19,10 @@
     {
       "name": "FAQ",
       "url": "/faq"
+    },
+    {
+      "name": "Kontak",
+      "url": "/contact"
     }
   ],
   "footer": [
