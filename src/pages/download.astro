@@ -42,22 +42,17 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
               </a>
             )
           }
-
-          {
-            banner?.image && (
-              <Image
-                class="mx-auto mt-12"
-                src={banner?.image}
-                width={750}
-                height={390}
-                alt="banner image"
-              />
-            )
-          }
-
-          
         </div>
       </div>
     </div>
+  </section>
+   <!-- Workflow -->
+  <section class="section pb-0">
+    <Image
+      src={workflow!.image}
+      alt="workflow image"
+      width={1920}
+      height={414}
+    />
   </section>
 </Base>

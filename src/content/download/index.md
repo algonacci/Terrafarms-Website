@@ -10,4 +10,7 @@ banner:
     label: "Download Terrafarms di"
     link: "/download"
     enable: true
+
+workflow:
+  image: "/images/widebanner.png"
 ---
