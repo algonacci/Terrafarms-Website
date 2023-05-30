@@ -3,10 +3,40 @@ import Base from "@layouts/Base.astro";
 import { markdownify } from "@lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
 const entry = await getEntryBySlug("features", "index");
-const { title, description, faqs } = entry.data;
+const { title, description, faqs, feature } = entry.data;
 ---
 
 <Base title={title} description={description}>
+  <!-- Features -->
+  <section class="section bg-theme-light">
+    <div class="container">
+      <div class="text-center">
+        <h2 >{markdownify(feature!.title)}</h2>
+      </div>
+      <div class="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          feature!.features.map((item, i) => (
+            <div class="feature-card rounded-xl bg-white p-5 pb-8 text-center">
+              {item.icon && (
+                <img
+                  class="my-custom-img-icon-class mx-auto"
+                  alt={item.icon}
+                  src={item.icon}
+                  width={30}
+                  height={30}
+                />
+              )}
+              <div class="mt-4">
+                <p class="h5 text-bold font-bold" set:html={markdownify(item!.name)} />
+                <p class="mt-3">{item.content}</p>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
   <section class="section">
     <div class="container">
       <h1 class="text-center font-bold lg:text-[56px]" set:html={markdownify(title)} />

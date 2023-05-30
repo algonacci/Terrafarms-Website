@@ -1,6 +1,30 @@
 ---
-title: Features
+title: Fitur
 draft: false
+
+
+feature:
+  title: Kenapa Harus Terrafarms?
+  features:
+    - name: "Integrasi IoT dan AI"
+      icon: "/images/ar.png"
+      content: "Terrafarms memanfaatkan teknologi IoT dan AI untuk menyediakan solusi komprehensif bagi para petani, memungkinkan mereka untuk mengambil keputusan berdasarkan data dan meningkatkan praktik pertanian."
+    - name: "Analisis Tanah dan Rekomendasi Tanaman"
+      icon: "/images/3dsoil.png"
+      content: "Kami menyediakan layanan analisis tanah yang akurat dan rekomendasi tanaman menggunakan model pembelajaran mesin canggih, membantu petani mengoptimalkan pemilihan tanaman sesuai dengan jenis tanah yang berbeda."
+    - name: "Akses Pasar dan Penentuan Harga yang Adil"
+      icon: "/images/calculator.png"
+      content: "Melalui jaringan dan platform pasar yang luas, kami menghubungkan petani dengan pembeli, memastikan harga yang adil dan memfasilitasi akses pasar bagi produk pertanian mereka."
+    - name: "Pasokan Produk Pertanian"
+      icon: "/images/leaf1.png"
+      content: "Kami menyediakan petani dengan produk pertanian penting seperti benih, pupuk, dan pestisida, memastikan mereka memiliki akses ke input berkualitas tinggi untuk budidaya tanaman mereka."
+    - name: "Deteksi Penyakit Tanaman"
+      icon: "/images/plantsoil.png"
+      content: "Model canggih kami dapat mendeteksi dan mendiagnosis penyakit tanaman berdasarkan gejala visual, memungkinkan petani untuk mengambil tindakan cepat untuk mencegah kerugian panen dan memaksimalkan hasil."
+    - name: "Efisiensi dan Keberlanjutan"
+      icon: "/images/leaf3.png"
+      content: "Terrafarms bertujuan untuk menyederhanakan proses pertanian, meningkatkan efisiensi, dan mempromosikan praktik pertanian yang berkelanjutan untuk kepentingan petani, lingkungan, dan masyarakat."
+
 faqs:
   - title: Apa itu Terrafarms?
     answer: Terrafarms adalah sebuah perusahaan teknologi pertanian yang menggunakan kecerdasan buatan (AI) dan Internet of Things (IoT) untuk memberikan solusi cerdas dalam pertanian. Kami menyediakan analisis tanah, rekomendasi tanaman, pemantauan pertumbuhan tanaman, dan solusi pengendalian hama yang inovatif untuk membantu petani meningkatkan hasil panen mereka.
