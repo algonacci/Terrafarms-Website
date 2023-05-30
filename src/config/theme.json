@@ -8,8 +8,8 @@
         "theme_light": "#edf6f5"
       },
       "text_color": {
-        "default": "#555",
-        "dark": "#222"
+        "default": "#004852",
+        "dark": "#002425"
       }
     }
   },
