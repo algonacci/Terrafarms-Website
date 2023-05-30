@@ -24,8 +24,19 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
 
           {
             banner?.button?.enable && (
-              <a class="btn btn-primary mt-4" href={banner.button.link}>
-                {banner.button.label}
+              <a class="btn bg-white mt-11 py-0 px-5 rounded-full" href={banner.button.link}>
+                <div class="flex">
+                <span class="btn-label flex items-center">
+                    {banner.button.label}
+                  </span>
+                  <Image
+                    class="ml-2 mr-4 flex items-center"
+                    src={banner?.google}
+                    width={100}
+                    height={55}
+                    alt="banner image"
+                  />
+                </div>
               </a>
             )
           }
@@ -141,6 +152,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
                     />
                   </a>
                 )}
+                
               </div>
             </div>
           </div>
@@ -184,4 +196,5 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
 
   <!-- Call to Action -->
   <Cta cta={call_to_action} />
+  
 </Base>

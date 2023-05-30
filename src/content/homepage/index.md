@@ -1,11 +1,12 @@
 ---
 banner:
+  google: /images/Google-Play-Logo.png
   title: Terrafarms - Revolusi Pertanian dengan Solusi Cerdas 
   content: Sambut revolusi pertanian dengan solusi cerdas bersama Terrafarms. Kami memanfaatkan teknologi terkini seperti kecerdasan buatan (AI) dan Internet of Things (IoT) untuk menghadirkan solusi inovatif dalam dunia pertanian. Dengan Terrafarms, Anda dapat mengoptimalkan proses pertanian Anda, mulai dari analisis tanah yang mendalam, pemantauan pertumbuhan tanaman secara real-time, hingga pengelolaan sumber daya yang efisien.
   image: /images/bannerart1small.png
   button:
-    label: "Kontak Kami"
-    link: "/contact"
+    label: "Download Terrafarms di"
+    link: "/download"
     enable: true
 
 # feature
@@ -41,7 +42,7 @@ services:
     button:
       enable: true
       label: Pelajari Lebih Lanjut
-      link: /contact
+      link: /features
 
   - title: "Forum Tanya Jawab Pertanian untuk Membahas Masalah dan Solusi"
     content: "Dalam forum ini, Anda dapat bertanya, berbagi, dan mencari solusi mengenai berbagai masalah dan tantangan yang terkait dengan bidang pertanian. Temukan jawaban dari para ahli dan komunitas yang berpengalaman dalam industri pertanian, serta berdiskusi tentang inovasi, teknik terbaru, dan praktik terbaik dalam pertanian. Forum ini merupakan wadah yang sangat berguna bagi para petani, peternak, dan semua individu yang tertarik dengan pertanian untuk saling bertukar pengetahuan, pengalaman, serta memperluas jaringan dalam rangka mengembangkan sektor pertanian yang berkelanjutan."
@@ -50,7 +51,7 @@ services:
     button:
       enable: true
       label: Pelajari Lebih Lanjut
-      link: /contact
+      link: /features
 
   - title: "Analisis Tanah yang Akurat untuk Pertanian yang Optimal
 Deskripsi: Dengan menggunakan teknologi terkini dalam analisis ta"
@@ -60,7 +61,7 @@ Deskripsi: Dengan menggunakan teknologi terkini dalam analisis ta"
     button:
       enable: true
       label: Pelajari Lebih Lanjut
-      link: /contact
+      link: /features
 
   - title: "Solusi Inovatif untuk Pengendalian Hama dan Penyakit Tanaman"
     content: "Deskripsi: Terrafarms menawarkan solusi inovatif dalam pengendalian hama dan penyakit tanaman. Melalui penerapan teknologi terbaru, kami dapat mendeteksi secara dini keberadaan hama dan penyakit tanaman serta memberikan rekomendasi pengendalian yang efektif. Dengan bantuan solusi kami, petani dapat mengurangi kerugian panen akibat serangan hama dan penyakit, serta menjaga kesehatan dan produktivitas tanaman secara berkelanjutan."
@@ -70,7 +71,7 @@ Deskripsi: Dengan menggunakan teknologi terkini dalam analisis ta"
     button:
       enable: true
       label: Pelajari Lebih Lanjut
-      link: /contact
+      link: /features
 
 # workflow
 workflow:
@@ -85,6 +86,6 @@ call_to_action:
   image: "/images/bannerart1.png"
   button:
     enable: true
-    label: "Kontak Kami"
-    link: "/contact"
+    label: "Download Terrafarms Sekarang"
+    link: "/download"
 ---
