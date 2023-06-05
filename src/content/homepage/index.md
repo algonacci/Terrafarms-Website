@@ -6,7 +6,7 @@ banner:
   image: /images/bannerart1small.png
   button:
     label: "Download Terrafarms di"
-    link: "/download"
+    link: "https://play.google.com/store/apps/details?id=com.terrafarms.terrafarms"
     enable: true
 
 # feature
