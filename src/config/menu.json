@@ -1,8 +1,12 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Beranda",
       "url": "/"
+    },
+    {
+      "name": "Tentang",
+      "url": "/about"
     },
     {
       "name": "Fitur",
