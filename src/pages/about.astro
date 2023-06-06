@@ -60,38 +60,31 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
     </div>
   </section>
 
-  <!-- Features -->
+  <!-- teams -->
   <section class="section bg-theme-light">
-    <div class="container">
+    <div class="mx-3">
       <div class="text-center">
-        <h2>{markdownify(feature!.title)}</h2>
+        <h2>{markdownify(team!.title)}</h2>
       </div>
-      <div class="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
+      <div class="mt-8 grid gap-x-2 gap-y-2 sm:grid-cols-3 lg:grid-cols-6">
         {
-          feature!.features.map((item, i) => (
+          team!.teams.map((item, i) => (
             <div class="feature-card rounded-xl bg-white p-5 pb-8 text-center">
-              {item.icon && (
-                // <Image
-                //   class="mx-auto"
-                //   src={item.icon}
-                //   width={30}
-                //   height={30}
-                //   alt=""
-                // />
+              {item.image && (
                 <img
                   class="my-custom-img-icon-class mx-auto"
-                  alt={item.icon}
-                  src={item.icon}
-                  width={30}
-                  height={30}
+                  alt={item.image}
+                  src={item.image}
+                  width={170}
+                  height={170}
                 />
               )}
-              <div class="mt-4">
+              <div class="mt-2">
                 <p
                   class="h5 text-bold font-bold"
                   set:html={markdownify(item!.name)}
                 />
-                <p class="mt-3">{item.content}</p>
+                <p class="">{item.role}</p>
               </div>
             </div>
           ))

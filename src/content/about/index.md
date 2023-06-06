@@ -93,7 +93,7 @@ call_to_action:
 
 # feature
 team:
-  title: Kenapa Harus Terrafarms?
+  title: Meet Our Team
   teams:
     - name: "Doni Wirawan"
       image: "/images/doni.png"
