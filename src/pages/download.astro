@@ -11,15 +11,15 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
 
 <Base>
   <!-- banner -->
-  <section class="section pb-[50px]">
+  <section class="section pb-[20px]">
     <div class="container">
       <div class="row text-center">
         <div class="mx-auto lg:col-10">
-          <h1 class="font-primary font-bold lg:text-[56px]">{banner?.title}</h1>
+          <h1 class="font-primary font-bold text-6xl">{banner?.title}</h1>
 
           {
             banner?.content && (
-              <p class="mt-4" set:html={markdownify(banner.content)} />
+              <p class="mt-4 text-2xl" set:html={markdownify(banner.content)} />
             )
           }
 
@@ -49,7 +49,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
     </div>
   </section>
   <!-- Workflow -->
-  <section class="section pb-5">
+  <section class="section pb-12">
     <Image
       src={workflow!.image}
       alt="workflow image"
