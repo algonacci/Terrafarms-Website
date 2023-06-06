@@ -8,7 +8,7 @@ const { title, description, faqs, feature } = entry.data;
 
 <Base title={title} description={description}>
   <!-- Features -->
-  <section class="section bg-theme-light">
+  <section class="section ">
     <div class="container">
       <div class="text-center">
         <h2>{markdownify(feature!.title)}</h2>
@@ -40,7 +40,7 @@ const { title, description, faqs, feature } = entry.data;
     </div>
   </section>
 
-  <section class="section">
+  <section class="section bg-theme-light">
     <div class="container">
       <h1
         class="text-center font-bold lg:text-[56px]"
