@@ -6,7 +6,7 @@ import { markdownify } from "@lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
 
 const homepage = await getEntryBySlug("about", "index");
-const { banner, feature, services, workflow, call_to_action } = homepage.data;
+const { banner, feature, services, workflow, call_to_action, team } = homepage.data;
 ---
 
 <Base>

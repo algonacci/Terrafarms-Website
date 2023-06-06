@@ -88,4 +88,35 @@ call_to_action:
     enable: true
     label: "Download Terrafarms Sekarang"
     link: "/download"
+
+
+
+# feature
+team:
+  title: Kenapa Harus Terrafarms?
+  teams:
+    - name: "Doni Wirawan"
+      image: "/images/doni.png"
+      role: "Cloud Engineer"
+      Learning: "CC"
+    - name: "Azzam Ubaidillah"
+      image: "/images/azzam.png"
+      role: "Project Manager"
+      Learning: "ML"
+    - name: "Febrio Wijaya"
+      image: "/images/febrio.png"
+      role: "ML Engineer"
+      Learning: "CC"
+    - name: "Ali Syaugi"
+      image: "/images/syaugi.png"
+      role: "IoT Engineer"
+      Learning: "ML"
+    - name: "Akbar Hamaminatu"
+      image: "/images/akbar.png"
+      role: "Mobile Developer"
+      Learning: "MD"
+    - name: "Muhamad Fardal"
+      image: "/images/fardal.png"
+      role: "Mobile Developer"
+      Learning: "MD"
 ---
