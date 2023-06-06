@@ -69,14 +69,14 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
       <div class="mt-8 grid gap-x-2 gap-y-2 sm:grid-cols-3 lg:grid-cols-6">
         {
           team!.teams.map((item, i) => (
-            <div class="feature-card rounded-xl bg-white p-5 pb-8 text-center">
+            <div class="text-center">
               {item.image && (
                 <img
-                  class="my-custom-img-icon-class mx-auto"
+                  class=" mx-auto"
                   alt={item.image}
                   src={item.image}
-                  width={170}
-                  height={170}
+                  width={570}
+                  height={570}
                 />
               )}
               <div class="mt-2">
@@ -191,7 +191,4 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
       height={414}
     />
   </section>
-
-  <!-- Call to Action -->
-  <Cta cta={call_to_action} />
 </Base>

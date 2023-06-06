@@ -79,15 +79,6 @@ workflow:
   image: "/images/6widebanner.png"
   description: ""
 
-# call_to_action
-call_to_action:
-  title: Tingkatkan Hasil Panen Anda dengan Terrafarms
-  content: Bergabunglah dengan Terrafarms dan tingkatkan hasil panen Anda dengan solusi terdepan dalam pertanian. Dengan teknologi canggih yang menggabungkan kecerdasan buatan (AI) dan Internet of Things (IoT), kami memberikan solusi yang inovatif dan terpercaya untuk mengoptimalkan produksi tanaman Anda. 
-  image: "/images/bannerart1.png"
-  button:
-    enable: true
-    label: "Download Terrafarms Sekarang"
-    link: "/download"
 
 
 
