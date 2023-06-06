@@ -66,7 +66,7 @@ Deskripsi: Dengan menggunakan teknologi terkini dalam analisis ta"
   - title: "Solusi Inovatif untuk Pengendalian Hama dan Penyakit Tanaman"
     content: "Deskripsi: Terrafarms menawarkan solusi inovatif dalam pengendalian hama dan penyakit tanaman. Melalui penerapan teknologi terbaru, kami dapat mendeteksi secara dini keberadaan hama dan penyakit tanaman serta memberikan rekomendasi pengendalian yang efektif. Dengan bantuan solusi kami, petani dapat mengurangi kerugian panen akibat serangan hama dan penyakit, serta menjaga kesehatan dan produktivitas tanaman secara berkelanjutan."
     images:
-      - "/images/bannerart4.png"
+      - "/images/bannerart3 (2).png"
       
     button:
       enable: true
