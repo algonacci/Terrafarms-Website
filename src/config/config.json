@@ -18,13 +18,13 @@
   "nav_button": {
     "enable": true,
     "label": "Download Terrafarms",
-    "link": "/download"
+    "link": "https://play.google.com/store/apps/details?id=com.terrafarms.terrafarms"
   },
   "params": {
     "contact_form_action": "Kirim Pesan",
     "tag_manager_id": "",
     "footer_content": "Revolusi Pertanian dengan Solusi Cerdas Bersama Terrafarms🌾",
-    "copyright": "Terrafarms 2023🌾"
+    "copyright": "Copyright 2022, Terrafarms 2023🌾"
   },
   "metadata": {
     "meta_author": "Terrafarms",
