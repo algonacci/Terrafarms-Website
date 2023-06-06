@@ -61,8 +61,8 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
   </section>
 
   <!-- teams -->
-  <section class="section bg-theme-light">
-    <div class="mx-3">
+  <section class="section bg-theme-light ">
+    <div class="mx-3 py-6">
       <div class="text-center">
         <h2>{markdownify(team!.title)}</h2>
       </div>
@@ -72,7 +72,7 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
             <div class="text-center">
               {item.image && (
                 <img
-                  class=" mx-auto"
+                  class="rounded-full mx-auto"
                   alt={item.image}
                   src={item.image}
                   width={570}
@@ -93,71 +93,6 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
     </div>
   </section>
 
-  <!-- Services -->
-  {
-    services!.map((service, index: number) => {
-      const isOdd = index % 2 > 0;
-      return (
-        <section class={`section ${isOdd && "bg-theme-light"}`}>
-          <div class="container">
-            <div class="items-center gap-8 md:grid md:grid-cols-2">
-              <div class={`service-carousel ${!isOdd && "md:order-2"}`}>
-                {service!.images!.length > 1 ? (
-                  <div class="swiper">
-                    <div class="swiper-wrapper">
-                      {service!.images?.map((image: string) => (
-                        <div class="swiper-slide">
-                          <Image
-                            class="mx-auto"
-                            src={image}
-                            width={538}
-                            height={328}
-                            alt=""
-                          />
-                        </div>
-                      ))}
-                    </div>
-                    <div class="pagination" />
-                  </div>
-                ) : (
-                  <Image
-                    class="mx-auto"
-                    src={service!.images![0]}
-                    width={538}
-                    height={328}
-                    alt=""
-                  />
-                )}
-              </div>
-
-              {/* Content */}
-              <div
-                class={`service-content mt-5 md:mt-0 ${!isOdd && "md:order-1"}`}
-              >
-                <h2 class="font-bold leading-[40px]">{service?.title}</h2>
-                <p class="mb-2 mt-4">{service?.content}</p>
-                {service?.button?.enable && (
-                  <a
-                    href={service?.button.link}
-                    class="cta-link inline-flex items-center text-primary"
-                  >
-                    {service?.button.label}
-                    <img
-                      class="ml-1"
-                      src="/images/arrow-right.svg"
-                      width={18}
-                      height={14}
-                      alt="arrow"
-                    />
-                  </a>
-                )}
-              </div>
-            </div>
-          </div>
-        </section>
-      );
-    })
-  }
 
   <script>
     import Swiper, { Autoplay, Pagination } from "swiper";
@@ -176,7 +111,7 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
   <!-- ./End service -->
 
   <!-- Workflow -->
-  <section class="section pb-0">
+  <section class="section pb-8">
     <div class="mb-8 text-center">
       <h2
         class="mx-auto max-w-[400px] font-bold leading-[44px]"
