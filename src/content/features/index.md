@@ -6,22 +6,22 @@ feature:
   title: Kenapa Harus Terrafarms?
   features:
     - name: "Integrasi IoT dan AI"
-      icon: "/images/ar.png"
+      icon: "/images/ai.png"
       content: "Terrafarms memanfaatkan teknologi IoT dan AI untuk menyediakan solusi komprehensif bagi para petani, memungkinkan mereka untuk mengambil keputusan berdasarkan data dan meningkatkan praktik pertanian."
     - name: "Analisis Tanah dan Rekomendasi Tanaman"
-      icon: "/images/3dsoil.png"
+      icon: "/images/35.png"
       content: "Kami menyediakan layanan analisis tanah yang akurat dan rekomendasi tanaman menggunakan model pembelajaran mesin canggih, membantu petani mengoptimalkan pemilihan tanaman sesuai dengan jenis tanah yang berbeda."
     - name: "Akses Pasar dan Penentuan Harga yang Adil"
-      icon: "/images/calculator.png"
+      icon: "/images/cart.png"
       content: "Melalui jaringan dan platform pasar yang luas, kami menghubungkan petani dengan pembeli, memastikan harga yang adil dan memfasilitasi akses pasar bagi produk pertanian mereka."
     - name: "Pasokan Produk Pertanian"
-      icon: "/images/leaf1.png"
+      icon: "/images/40.png"
       content: "Kami menyediakan petani dengan produk pertanian penting seperti benih, pupuk, dan pestisida, memastikan mereka memiliki akses ke input berkualitas tinggi untuk budidaya tanaman mereka."
     - name: "Deteksi Penyakit Tanaman"
-      icon: "/images/plantsoil.png"
+      icon: "/images/34.png"
       content: "Model canggih kami dapat mendeteksi dan mendiagnosis penyakit tanaman berdasarkan gejala visual, memungkinkan petani untuk mengambil tindakan cepat untuk mencegah kerugian panen dan memaksimalkan hasil."
     - name: "Efisiensi dan Keberlanjutan"
-      icon: "/images/leaf3.png"
+      icon: "/images/leaf.png"
       content: "Terrafarms bertujuan untuk menyederhanakan proses pertanian, meningkatkan efisiensi, dan mempromosikan praktik pertanian yang berkelanjutan untuk kepentingan petani, lingkungan, dan masyarakat."
 
 faqs:
