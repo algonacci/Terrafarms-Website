@@ -10,11 +10,11 @@
   @apply block md:hidden;
 }
 #nav-toggle:checked ~ #nav-menu {
-    @apply block md:flex;
+  @apply block md:flex;
 }
 
 .header {
-  @apply bg-white py-[14px] px-4 md:px-0 md:py-[9px];
+  @apply bg-white px-4 py-[14px] md:px-0 md:py-[9px];
 }
 
 // navbar items
@@ -47,7 +47,7 @@
 }
 
 .nav-link {
-  @apply py-3 px-2 font-primary text-base font-bold text-dark transition hover:text-primary md:py-4 lg:px-3;
+  @apply px-2 py-3 font-primary text-base font-bold text-dark transition hover:text-primary md:py-4 lg:px-3;
 
   &-active {
     @apply text-primary;

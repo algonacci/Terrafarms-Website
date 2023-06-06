@@ -9,7 +9,10 @@ const { title, description, faqs } = entry.data;
 <Base title={title} description={description}>
   <section class="section">
     <div class="container">
-      <h1 class="text-center font-bold lg:text-[56px]" set:html={markdownify(title)} />
+      <h1
+        class="text-center font-bold lg:text-[56px]"
+        set:html={markdownify(title)}
+      />
       <div class="section row -mt-6">
         {
           faqs?.map((faq) => (

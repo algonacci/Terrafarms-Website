@@ -1,4 +1,4 @@
-import { slug } from 'github-slugger';
+import { slug } from "github-slugger";
 import { marked } from "marked";
 
 marked.use({

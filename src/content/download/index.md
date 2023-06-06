@@ -12,5 +12,5 @@ banner:
     enable: true
 
 workflow:
-  image: "/images/widebanner.png"
+  image: "/images/6widebanner.png"
 ---

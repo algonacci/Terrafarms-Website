@@ -11,7 +11,7 @@ const { title, description, faqs, feature } = entry.data;
   <section class="section bg-theme-light">
     <div class="container">
       <div class="text-center">
-        <h2 >{markdownify(feature!.title)}</h2>
+        <h2>{markdownify(feature!.title)}</h2>
       </div>
       <div class="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
         {
@@ -27,7 +27,10 @@ const { title, description, faqs, feature } = entry.data;
                 />
               )}
               <div class="mt-4">
-                <p class="h5 text-bold font-bold" set:html={markdownify(item!.name)} />
+                <p
+                  class="h5 text-bold font-bold"
+                  set:html={markdownify(item!.name)}
+                />
                 <p class="mt-3">{item.content}</p>
               </div>
             </div>
@@ -39,7 +42,10 @@ const { title, description, faqs, feature } = entry.data;
 
   <section class="section">
     <div class="container">
-      <h1 class="text-center font-bold lg:text-[56px]" set:html={markdownify(title)} />
+      <h1
+        class="text-center font-bold lg:text-[56px]"
+        set:html={markdownify(title)}
+      />
       <div class="section row -mt-6">
         {
           faqs?.map((faq) => (

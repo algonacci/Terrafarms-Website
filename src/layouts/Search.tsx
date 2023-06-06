@@ -100,7 +100,7 @@ export default function SearchBar({ searchList }: Props) {
                 height={230}
               />
             )}
-            <ul className="mt-4 mb-4 flex flex-wrap items-center space-x-3 text-text">
+            <ul className="mb-4 mt-4 flex flex-wrap items-center space-x-3 text-text">
               <li>
                 {item.data.authors.map((author: string) => (
                   <a

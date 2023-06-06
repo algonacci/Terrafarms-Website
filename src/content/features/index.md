@@ -2,7 +2,6 @@
 title: Fitur
 draft: false
 
-
 feature:
   title: Kenapa Harus Terrafarms?
   features:

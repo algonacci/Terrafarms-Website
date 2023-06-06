@@ -15,9 +15,8 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
     <div class="container">
       <div class="row text-center">
         <div class="mx-auto lg:col-10">
-        
           <h1 class="font-primary font-bold lg:text-[56px]">{banner?.title}</h1>
-          
+
           {
             banner?.content && (
               <p class="mt-4" set:html={markdownify(banner.content)} />
@@ -26,9 +25,12 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
 
           {
             banner?.button?.enable && (
-              <a class="btn bg-white mt-11 py-0 px-5 rounded-full" href={banner.button.link}>
+              <a
+                class="btn mt-11 rounded-full bg-white px-5 py-0"
+                href={banner.button.link}
+              >
                 <div class="flex">
-                <span class="btn-label flex items-center">
+                  <span class="btn-label flex items-center">
                     {banner.button.label}
                   </span>
                   <Image
@@ -46,7 +48,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
       </div>
     </div>
   </section>
-   <!-- Workflow -->
+  <!-- Workflow -->
   <section class="section pb-0">
     <Image
       src={workflow!.image}

@@ -1,7 +1,7 @@
 function Notice({ type, children }) {
   return (
     <div className={`notice ${type} relative mb-8`}>
-      <div className="notice-head absolute top-0 left-0 z-10 flex h-[30px] w-full items-center px-3">
+      <div className="notice-head absolute left-0 top-0 z-10 flex h-[30px] w-full items-center px-3">
         <svg width="16px" height="16px" viewBox="0 0 512 512">
           <path
             fill="#fff"
