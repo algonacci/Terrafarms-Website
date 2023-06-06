@@ -18,7 +18,7 @@ const { title, description, banner, faqs, workflow } = entry.data;
         {
           faqs?.map((faq) => (
             <div class="col-12 mt-6 md:col-6">
-              <div class="p-12 shadow rounded-xl">
+              <div class="p-12 shadow rounded-xl bg-theme-light">
                 <div class="faq-head relative">
                   <h4 set:html={markdownify(faq.title)} />
                 </div>
