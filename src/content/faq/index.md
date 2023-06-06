@@ -1,6 +1,14 @@
 ---
 title: Frequently Asked Questions
 draft: false
+
+banner:
+  google: /images/Google-Play-Logo.png
+  button:
+    label: "Download Terrafarms di"
+    link: "https://play.google.com/store/apps/details?id=com.terrafarms.terrafarms"
+    enable: true
+
 faqs:
   - title: Apa itu Terrafarms?
     answer: Terrafarms adalah sebuah perusahaan teknologi pertanian yang menggunakan kecerdasan buatan (AI) dan Internet of Things (IoT) untuk memberikan solusi cerdas dalam pertanian. Kami menyediakan analisis tanah, rekomendasi tanaman, pemantauan pertumbuhan tanaman, dan solusi pengendalian hama yang inovatif untuk membantu petani meningkatkan hasil panen mereka.
@@ -19,4 +27,12 @@ faqs:
 
   - title: Apakah Terrafarms mendukung pertanian organik atau konvensional?
     answer: Terrafarms mendukung berbagai jenis pertanian, termasuk pertanian organik dan konvensional. Kami memberikan rekomendasi tanaman yang sesuai dengan prinsip-prinsip pertanian organik dan konvensional. Kami memberikan solusi yang dapat disesuaikan dengan kebutuhan petani, baik yang menerapkan metode pertanian organik maupun konvensional.
+
+
+# workflow
+workflow:
+  title: "Revolusi Pertanian Dimulai Hari Ini"
+  image: "/images/6widebanner.png"
+  description: "Membuka Jalan Menuju Revolusi Pertanian Modern: Inovasi dan Teknologi Masa Depan untuk Kemajuan Pertanian"
+
 ---

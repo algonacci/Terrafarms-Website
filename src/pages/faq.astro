@@ -1,13 +1,14 @@
 ---
+import { Image } from "@astrojs/image/components";
 import Base from "@layouts/Base.astro";
 import { markdownify } from "@lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
 const entry = await getEntryBySlug("faq", "index");
-const { title, description, faqs } = entry.data;
+const { title, description, banner, faqs, workflow } = entry.data;
 ---
 
 <Base title={title} description={description}>
-  <section class="section">
+  <section class="section ">
     <div class="container">
       <h1
         class="text-center font-bold lg:text-[56px]"
@@ -27,6 +28,45 @@ const { title, description, faqs } = entry.data;
           ))
         }
       </div>
+    </div>
+  </section>
+   <!-- Workflow -->
+  <section class="section pb-8 bg-theme-light">
+    <div class="mb-8 text-center">
+      <h2
+        class="mx-auto  font-bold leading-[44px] text-6xl pb-8"
+        set:html={workflow?.title}
+      />
+      <p class="mt-3 text-2xl" set:html={workflow?.description} />
+    </div>
+    <Image
+      src={workflow!.image}
+      alt="workflow image"
+      width={1920}
+      height={414}
+    />
+    <div class="flex justify-center pb-12">
+        {
+            banner?.button?.enable && (
+              <a
+                class="btn mt-11 rounded-full bg-white px-5 py-0"
+                href={banner.button.link}
+              >
+                <div class="flex">
+                  <span class="btn-label flex items-center">
+                    {banner.button.label}
+                  </span>
+                  <Image
+                    class="ml-2 mr-4 flex items-center"
+                    src={banner?.google}
+                    width={100}
+                    height={55}
+                    alt="banner image"
+                  />
+                </div>
+              </a>
+            )
+          }
     </div>
   </section>
 </Base>
