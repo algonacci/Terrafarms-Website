@@ -11,7 +11,7 @@ banner:
 
 # feature
 team:
-  title: Meet Our Team
+  title: Tim Terrafarms
   teams:
     - name: "Doni Wirawan"
       image: "/images/doni.png"
