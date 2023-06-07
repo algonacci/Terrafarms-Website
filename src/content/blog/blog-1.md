@@ -1,17 +1,13 @@
 ---
 title: "Revolusi Pertanian dengan Solusi Inovatif Terrafarms"
 description: "Terrafarms adalah perusahaan teknologi pertanian yang bertujuan merevolusi industri pertanian melalui solusi inovatif. Kami memanfaatkan teknologi mutakhir seperti IoT (Internet of Things) dan AI (Artificial Intelligence) untuk memberdayakan petani, mengoptimalkan praktik pertanian, dan mendorong pertumbuhan yang berkelanjutan. Dalam tulisan blog ini, kami akan menjelajahi solusi yang ditawarkan oleh Terrafarms dan bagaimana mereka mengubah metode pertanian tradisional menjadi praktik pertanian pintar dan efisien."
-image: "/images/blog-1.jpg"
+image: "/images/blogcover1.png"
 date: 2023-06-07T05:00:00Z
 draft: false
 ---
 Terrafarms adalah perusahaan teknologi pertanian yang bertujuan merevolusi industri pertanian melalui solusi inovatif. Kami memanfaatkan teknologi mutakhir seperti IoT (Internet of Things) dan AI (Artificial Intelligence) untuk memberdayakan petani, mengoptimalkan praktik pertanian, dan mendorong pertumbuhan yang berkelanjutan. Dalam tulisan blog ini, kami akan menjelajahi solusi yang ditawarkan oleh Terrafarms dan bagaimana mereka mengubah metode pertanian tradisional menjadi praktik pertanian pintar dan efisien.
 
 ## Solusi
-1. Deteksi Penyakit Tanaman dengan AI:
-Algoritma AI canggih kami menganalisis data kesehatan tanaman untuk mendeteksi dan mendiagnosis penyakit secara akurat. Ini membantu petani mengambil tindakan cepat untuk mencegah kerugian panen dan memaksimalkan hasil.
-
-
 **1. Deteksi Penyakit Tanaman dengan AI:**
 Algoritma AI canggih kami menganalisis data kesehatan tanaman untuk mendeteksi dan mendiagnosis penyakit secara akurat. Ini membantu petani mengambil tindakan cepat untuk mencegah kerugian panen dan memaksimalkan hasil.
 
