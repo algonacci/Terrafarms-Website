@@ -5,6 +5,7 @@ import theme from "@config/theme.json";
 import { plainify } from "@lib/utils/textConverter";
 import Footer from "@partials/Footer.astro";
 import Header from "@partials/Header.astro";
+import GoogleTagManager from "@components/GoogleTagManager.astro"
 import "@styles/style.scss";
 
 // font families
@@ -28,15 +29,8 @@ const { title, meta_title, description, image, noindex, canonical } =
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FNLF2HPR07"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-FNLF2HPR07');
-    </script>
+    <!-- Google tag (gtag.js) -->
+    <GoogleTagManager />
     <!-- favicon -->
     <link rel="shortcut icon" href={config.site.favicon} />
     <!-- theme meta -->
