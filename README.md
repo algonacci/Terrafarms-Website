@@ -1,6 +1,4 @@
-# Terrafarms-Website
-
-## The official website of Terrafarms.
+# The official website of Terrafarms.
 
 Terrafarms is an IoT and AI-based agricultural technology product that offers comprehensive solutions to farmers, from the beginning of the process until the end. Our mission is to provide farmers with innovative tools and solutions that can help improve the efficiency, productivity, and sustainability of agriculture. We leverage IoT and cutting-edge machine learning to develop models that can accurately classify different types of soil and recommend the best crops for a particular soil type.
 
