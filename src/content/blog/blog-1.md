@@ -1,7 +1,7 @@
 ---
 title: "Revolusi Pertanian dengan Solusi Inovatif Terrafarms"
 description: "Terrafarms adalah perusahaan teknologi pertanian yang bertujuan merevolusi industri pertanian melalui solusi inovatif. Kami memanfaatkan teknologi mutakhir seperti IoT (Internet of Things) dan AI (Artificial Intelligence) untuk memberdayakan petani, mengoptimalkan praktik pertanian, dan mendorong pertumbuhan yang berkelanjutan. Dalam tulisan blog ini, kami akan menjelajahi solusi yang ditawarkan oleh Terrafarms dan bagaimana mereka mengubah metode pertanian tradisional menjadi praktik pertanian pintar dan efisien."
-image: "/images/blogcover1.png"
+image: "/images/blogcover1.webp"
 date: 2023-06-07T05:00:00Z
 draft: false
 ---

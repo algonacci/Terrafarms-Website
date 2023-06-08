@@ -1,7 +1,7 @@
 ---
 title: "Adversus is a web-based dialer and practical CRM solution"
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blogcover2.png"
+image: "/images/blogcover2.webp"
 date: 2023-06-07T05:00:00Z
 draft: false
 ---

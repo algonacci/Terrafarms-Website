@@ -4,7 +4,7 @@ draft: false
 
 
 banner:
-  google: /images/Google-Play-Logo.png
+  google: /images/Google-Play-Logo.webp
   button:
     label: "Download Terrafarms di"
     link: "https://play.google.com/store/apps/details?id=com.terrafarms.terrafarms"
@@ -17,7 +17,7 @@ info:
 # workflow
 workflow:
   title: "Revolusi Pertanian Dimulai Hari Ini"
-  image: "/images/6widebanner.png"
+  image: "/images/6widebanner.webp"
   description: "Membuka Jalan Menuju Revolusi Pertanian Modern: Inovasi dan Teknologi Masa Depan untuk Kemajuan Pertanian"
 
 ---

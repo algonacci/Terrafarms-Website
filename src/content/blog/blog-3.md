@@ -1,7 +1,7 @@
 ---
 title: What you need to know about Photography
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blogcover3.png"
+image: "/images/blogcover3.webp"
 date: 2023-06-07T05:00:00Z
 draft: false
 ---

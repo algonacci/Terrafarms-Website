@@ -1,7 +1,7 @@
 ---
 title: Meningkatkan Kesejahteraan Petani melalui Teknologi Inovatif
 description: "Meningkatkan Kesejahteraan Petani melalui Teknologi Inovatif."
-image: "/images/blogcover2.png"
+image: "/images/blogcover2.webp"
 date: 2023-06-07T05:00:00Z
 draft: false
 ---
