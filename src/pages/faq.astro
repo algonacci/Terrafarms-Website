@@ -46,27 +46,30 @@ const { title, description, banner, faqs, workflow } = entry.data;
       height={414}
     />
     <div class="flex justify-center pb-12">
-      {
-        banner?.button?.enable && (
-          <a
-            class="btn mt-11 rounded-full bg-white px-5 py-0 hover:bg-[#98CB36] hover:text-white hover:shadow-lg transition duration-300"
-            href={banner.button.link}
-          >
-            <div class="flex">
-              <span class="btn-label flex items-center">
-                {banner.button.label}
-              </span>
-              <Image
-                class="ml-2 mr-4 flex items-center"
-                src={banner?.google}
-                width={100}
-                height={55}
-                alt="banner image"
-              />
-            </div>
-          </a>
-        )
-      }
-    </div>
+            {
+              banner?.button?.enable && (
+                <a
+                  class="btn mt-11 rounded-full bg-white px-5 py-0 hover:bg-[#024853] hover:text-white hover:shadow-lg transition duration-300"
+                  href={banner.button.link}
+                >
+                  <div class="flex">
+                    <span class="btn-label flex items-center">
+                      {banner.button.label}
+                    </span>
+                    <img
+                      class="m-3  flex items-center"
+                      src="images/Google-Play.webp"
+                      width="30"
+                      height="30"
+                      alt="banner image"
+                    />
+                    <span class="btn-label flex items-center googleplay">
+                      Google Play
+                    </span>
+                  </div>
+                </a>
+              )
+            }
+          </div>
   </section>
 </Base>

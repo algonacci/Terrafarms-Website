@@ -4,7 +4,6 @@ draft: false
 
 
 banner:
-  google: /images/Google-Play-Logo.webp
   button:
     label: "Download Terrafarms di"
     link: "https://play.google.com/store/apps/details?id=com.terrafarms.terrafarms"
