@@ -28,7 +28,7 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
           }
           {
             banner?.content && (
-              <p class="mt-8 lg:text-3xl md:text-2xl" set:html={markdownify(banner.content)} />
+              <p class="mt-8 lg:text-3xl md:text-2xl text-primary" set:html={markdownify(banner.content)} />
             )
           }
           <div class="flex justify-center pb-12">
@@ -80,7 +80,7 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
               )}
               <div class="mt-2">
                 <p
-                  class="h5 text-bold font-bold"
+                  class="h5 text-bold font-bold text-primary"
                   set:html={markdownify(item!.name)}
                 />
                 <p class="italic">{item.role}</p>
