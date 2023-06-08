@@ -44,7 +44,7 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
       <div class="text-center pb-12 ">
         <h2 class="lg:text-6xl">{markdownify(team!.title)}</h2>
       </div>
-      <div class="mt-8 grid gap-x-2 gap-y-2 sm:grid-cols-3 lg:grid-cols-6">
+      <div class="mt-8 grid  sm:grid-cols-3 lg:grid-cols-6">
         {
           team!.teams.map((item, i) => (
             <div class="text-center">
@@ -70,23 +70,6 @@ const { banner, feature, services, workflow, call_to_action, team } = homepage.d
       </div>
     </div>
   </section>
-
-
-  <script>
-    import Swiper, { Autoplay, Pagination } from "swiper";
-    new Swiper(".service-carousel .swiper", {
-      modules: [Pagination, Autoplay],
-      autoplay: {
-        delay: 3000,
-      },
-      pagination: {
-        type: "bullets",
-        el: ".service-carousel .pagination",
-        clickable: true,
-      },
-    });
-  </script>
-  <!-- ./End service -->
 
   <!-- Workflow -->
   <section class="section pb-8">
