@@ -3,7 +3,7 @@ banner:
   google: /images/Google-Play-Logo.webp
   title: Apa itu Terrafarms? 
   content: <b>Terrafarms</b> adalah sebuah startup yang berfokus pada pertanian dengan memanfaatkan teknologi seperti <b>Artificial Intelligence (Kecerdasan Buatan)</b> dan <b>Internet of Things (IoT)</b>.
-  logo: /images/logo.webp
+  logo: /images/logo_green.webp
   button:
     label: "Download Terrafarms di"
     link: "/download"
