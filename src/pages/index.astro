@@ -2,6 +2,7 @@
 import { Image } from "@astrojs/image/components";
 import Base from "@layouts/Base.astro";
 import Cta from "@layouts/components/Cta.astro";
+import GooglePlay from "@layouts/components/GooglePlay.astro";
 import { markdownify } from "@lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
 
@@ -22,32 +23,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
             )
           }
 
-          <div class="flex justify-center pb-12">
-            {
-              banner?.button?.enable && (
-                <a
-                  class="btn mt-11 rounded-full bg-white px-5 py-0 hover:bg-[#024853] hover:text-white hover:shadow-lg transition duration-300"
-                  href={banner.button.link}
-                >
-                  <div class="flex">
-                    <span class="btn-label flex items-center">
-                      {banner.button.label}
-                    </span>
-                    <img
-                      class="m-3  flex items-center"
-                      src="images/Google-Play.webp"
-                      width="30"
-                      height="30"
-                      alt="banner image"
-                    />
-                    <span class="btn-label flex items-center googleplay">
-                      Google Play
-                    </span>
-                  </div>
-                </a>
-              )
-            }
-          </div>
+          <GooglePlay/>
         </section>
       </div>
     </div>
@@ -190,32 +166,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
       width={1920}
       height={414}
     />
-    <div class="flex justify-center pb-12">
-            {
-              banner?.button?.enable && (
-                <a
-                  class="btn mt-11 rounded-full bg-white px-5 py-0 hover:bg-[#024853] hover:text-white hover:shadow-lg transition duration-300"
-                  href={banner.button.link}
-                >
-                  <div class="flex">
-                    <span class="btn-label flex items-center">
-                      {banner.button.label}
-                    </span>
-                    <img
-                      class="m-3  flex items-center"
-                      src="images/Google-Play.webp"
-                      width="30"
-                      height="30"
-                      alt="banner image"
-                    />
-                    <span class="btn-label flex items-center googleplay">
-                      Google Play
-                    </span>
-                  </div>
-                </a>
-              )
-            }
-          </div>
+    <GooglePlay/>
   </section>
 
 </Base>
