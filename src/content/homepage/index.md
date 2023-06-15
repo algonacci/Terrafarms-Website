@@ -43,7 +43,7 @@ services:
       label: Pelajari Lebih Lanjut
       link: /features
 
-  - title: "Forum Tanya Jawab Pertanian untuk Membahas Masalah dan Solusi"
+  - title: "Forum Tanya Jawab Pertanian"
     content: "Dalam forum ini, Anda dapat bertanya, berbagi, dan mencari solusi mengenai berbagai masalah dan tantangan yang terkait dengan bidang pertanian. Temukan jawaban dari para ahli dan komunitas yang berpengalaman dalam industri pertanian, serta berdiskusi tentang inovasi, teknik terbaru, dan praktik terbaik dalam pertanian. Forum ini merupakan wadah yang sangat berguna bagi para petani, peternak, dan semua individu yang tertarik dengan pertanian untuk saling bertukar pengetahuan, pengalaman, serta memperluas jaringan dalam rangka mengembangkan sektor pertanian yang berkelanjutan."
     images:
       - "/images/2phonebannerart2.webp"
@@ -52,8 +52,8 @@ services:
       label: Pelajari Lebih Lanjut
       link: /features
 
-  - title: "Analisis Tanah yang Akurat untuk Pertanian yang Optimal"
-    content: "Terrafarms menyediakan layanan analisis yang akurat dan mendalam untuk membantu petani mengoptimalkan praktik pertanian mereka. Dapatkan informasi terperinci tentang komposisi tanah, nutrisi, pH, dan faktor lainnya yang memengaruhi pertumbuhan tanaman. Dengan pemahaman yang lebih baik tentang kondisi tanah, petani dapat mengambil langkah-langkah yang tepat untuk meningkatkan produktivitas dan kualitas hasil panen."
+  - title: "Analisis Tanah yang Akurat"
+    content: "Terrafarms menyediakan layanan analisis yang akurat dan mendalam untuk membantu petani mengoptimalkan praktik pertanian mereka. Dapatkan informasi terperinci tentang komposisi tanah dan faktor lainnya yang memengaruhi pertumbuhan tanaman. Dengan pemahaman yang lebih baik tentang kondisi tanah, petani dapat mengambil langkah-langkah yang tepat untuk meningkatkan produktivitas dan kualitas hasil panen."
     images:
       - "/images/soilbannerart3.webp"
     button:
@@ -61,8 +61,8 @@ services:
       label: Pelajari Lebih Lanjut
       link: /features
 
-  - title: "Solusi Inovatif untuk Pengendalian Hama dan Penyakit Tanaman"
-    content: "Deskripsi: Terrafarms menawarkan solusi inovatif dalam pengendalian hama dan penyakit tanaman. Melalui penerapan teknologi terbaru, kami dapat mendeteksi secara dini keberadaan hama dan penyakit tanaman serta memberikan rekomendasi pengendalian yang efektif. Dengan bantuan solusi kami, petani dapat mengurangi kerugian panen akibat serangan hama dan penyakit, serta menjaga kesehatan dan produktivitas tanaman secara berkelanjutan."
+  - title: "Solusi Inovatif untuk Penyakit Tanaman"
+    content: "Terrafarms menawarkan solusi inovatif dalam pengendalian hama dan penyakit tanaman. Melalui penerapan teknologi terbaru, kami dapat mendeteksi secara dini penyakit tanaman serta memberikan rekomendasi pengendalian yang efektif. Dengan bantuan solusi kami, petani dapat mengurangi kerugian panen akibat serangan hama dan penyakit, serta menjaga kesehatan dan produktivitas tanaman secara berkelanjutan."
     images:
       - "/images/plantbannerart3.webp"
       
