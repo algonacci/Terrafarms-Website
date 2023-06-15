@@ -52,8 +52,7 @@ services:
       label: Pelajari Lebih Lanjut
       link: /features
 
-  - title: "Analisis Tanah yang Akurat untuk Pertanian yang Optimal
-Deskripsi: Dengan menggunakan teknologi terkini dalam analisis ta"
+  - title: "Analisis Tanah yang Akurat untuk Pertanian yang Optimal"
     content: "Terrafarms menyediakan layanan analisis yang akurat dan mendalam untuk membantu petani mengoptimalkan praktik pertanian mereka. Dapatkan informasi terperinci tentang komposisi tanah, nutrisi, pH, dan faktor lainnya yang memengaruhi pertumbuhan tanaman. Dengan pemahaman yang lebih baik tentang kondisi tanah, petani dapat mengambil langkah-langkah yang tepat untuk meningkatkan produktivitas dan kualitas hasil panen."
     images:
       - "/images/soilbannerart3.webp"
