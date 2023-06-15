@@ -1,7 +1,7 @@
 ---
 title: Peran Teknologi dalam Pertanian Modern
 description: "Temukan bagaimana teknologi telah membantu mengubah wajah pertanian modern dan meningkatkan produktivitas serta efisiensi."
-image: "/images/blogcover2.webp"
+image: "/images/blogcover5.webp"
 date: 2023-06-15T08:00:00Z
 draft: false
 ---
