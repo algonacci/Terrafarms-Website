@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Privacy Policy
-*Updated on July 16, 2021*
+*Updated on July 07, 2023*
 
 The following Privacy Policy explains how Terrafarms ("the Company" or "we") obtains, collects, stores, uses, processes, controls, transfers, discloses, transmits, destroys, and protects Users' Personal Information. This Privacy Policy applies to all users of the Terrafarms application, hereinafter referred to as the "Application," website ([www.terrafarms.com](http://www.terrafarms.com)), services, or application products, unless otherwise stated in a separate privacy policy.
 
