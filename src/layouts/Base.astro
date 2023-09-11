@@ -7,7 +7,7 @@ import Footer from "@partials/Footer.astro";
 import Header from "@partials/Header.astro";
 import GoogleTagManager from "@components/GoogleTagManager.astro"
 import LinkedinTag from "@components/LinkedinTag.astro"
-import CookieConsent from "@components/CookieConsent.astro"
+// import CookieConsent from "@components/CookieConsent.astro"
 
 import "@styles/style.scss";
 
@@ -112,7 +112,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     />
     <meta
       property="og:image"
-      content="https://terrafarms.id/images/banner.jpg"
+      content="https://terrafarms.id/images/banner.webp"
     />
 
     <!-- Twitter -->
@@ -128,7 +128,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     />
     <meta
       property="twitter:image"
-      content="https://terrafarms.id/images/banner.jpg"
+      content="https://terrafarms.id/images/banner.webp"
     />
   </head>
   <body>
@@ -137,7 +137,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <main id="main-content" class="pt-20">
       <slot class="mt-12" />
     </main>
-   <CookieConsent />
+   <!-- <CookieConsent /> -->
     <Footer />
     <LinkedinTag />
   </body>
